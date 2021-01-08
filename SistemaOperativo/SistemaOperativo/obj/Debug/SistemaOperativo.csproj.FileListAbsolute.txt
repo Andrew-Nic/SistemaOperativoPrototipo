@@ -8,3 +8,14 @@ D:\ITSSY\5 Semestre (2020)\Sistemas Operativos\Parcial 3\SistemaOperativo\Sistem
 D:\ITSSY\5 Semestre (2020)\Sistemas Operativos\Parcial 3\SistemaOperativo\SistemaOperativo\obj\Debug\SistemaOperativo.csproj.CoreCompileInputs.cache
 D:\ITSSY\5 Semestre (2020)\Sistemas Operativos\Parcial 3\SistemaOperativo\SistemaOperativo\obj\Debug\SistemaOperativo.exe
 D:\ITSSY\5 Semestre (2020)\Sistemas Operativos\Parcial 3\SistemaOperativo\SistemaOperativo\obj\Debug\SistemaOperativo.pdb
+D:\Escritorio\SistemaOperativoPrototipo\SistemaOperativo\SistemaOperativo\bin\Debug\SistemaOperativo.exe.config
+D:\Escritorio\SistemaOperativoPrototipo\SistemaOperativo\SistemaOperativo\bin\Debug\SistemaOperativo.exe
+D:\Escritorio\SistemaOperativoPrototipo\SistemaOperativo\SistemaOperativo\bin\Debug\SistemaOperativo.pdb
+D:\Escritorio\SistemaOperativoPrototipo\SistemaOperativo\SistemaOperativo\obj\Debug\SistemaOperativo.csprojAssemblyReference.cache
+D:\Escritorio\SistemaOperativoPrototipo\SistemaOperativo\SistemaOperativo\obj\Debug\SistemaOperativo.Form1.resources
+D:\Escritorio\SistemaOperativoPrototipo\SistemaOperativo\SistemaOperativo\obj\Debug\SistemaOperativo.Properties.Resources.resources
+D:\Escritorio\SistemaOperativoPrototipo\SistemaOperativo\SistemaOperativo\obj\Debug\SistemaOperativo.csproj.GenerateResource.cache
+D:\Escritorio\SistemaOperativoPrototipo\SistemaOperativo\SistemaOperativo\obj\Debug\SistemaOperativo.csproj.CoreCompileInputs.cache
+D:\Escritorio\SistemaOperativoPrototipo\SistemaOperativo\SistemaOperativo\obj\Debug\SistemaOperativo.exe
+D:\Escritorio\SistemaOperativoPrototipo\SistemaOperativo\SistemaOperativo\obj\Debug\SistemaOperativo.pdb
+D:\Escritorio\SistemaOperativoPrototipo\SistemaOperativo\SistemaOperativo\obj\Debug\SistemaOperativo.Form2.resources
